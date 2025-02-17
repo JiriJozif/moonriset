@@ -2,6 +2,12 @@
     "name": "jiri.jozif/moonriset",
     "description": "PHP library for calculating moonrise and moonset",
     "type": "library",
+    "keywords": [
+        "moon",
+        "rise",
+        "set",
+        "transit"
+    ],
     "license": "MIT",
     "version": "1.0.0",
     "minimum-stability": "dev",
