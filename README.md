@@ -4,10 +4,10 @@ Algorithm source: Oliver Montenbruck and Thomas Pfleger: Astronomy on the Person
 
 ## Installation
 
-This library is available for use with [Composer](https://packagist.org/packages/) — add it to your project by running:
+This library is available for use with [Composer](https://packagist.org/packages/jiri.jozif/moonriset) — add it to your project by running:
 
 ```bash
-$ composer require <vendor/package-name> 
+$ composer require jiri.jozif/moonriset
 ```
 
 ## Usage
