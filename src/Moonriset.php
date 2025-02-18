@@ -5,7 +5,7 @@
  *
  * @author  Jiri Jozif <jiri.jozif@gmail.com>
  * @license MIT
- * @version 1.0.0
+ * @version 1.0.1
  */
 declare(strict_types = 1);
 
@@ -36,7 +36,7 @@ class Moonriset
     private const float COS_EPS = 0.9175;
 
     /**
-     * precision, large number is larger precision
+     * precision, always an even number, large number is larger precision
      * the number of positions of the Moon in the sky throughout the day,
      * between which one looks for rise, transit and set
      *
