@@ -64,4 +64,4 @@ echo "Moon rises last day of year 2025 at {$mrs->rise["hh_mm"]} and sets at {$mr
 
 ## Help
 
-If you have any questions, feel free to contact us under `jiri.jozif@gmail.com`.
+If you have any questions, feel free to contact me at `jiri.jozif@gmail.com`.
