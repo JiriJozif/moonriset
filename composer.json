@@ -3,6 +3,7 @@
     "description": "PHP library for calculating moonrise and moonset",
     "type": "library",
     "keywords": [
+        "astronomy",
         "moon",
         "rise",
         "set",
