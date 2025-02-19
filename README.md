@@ -26,11 +26,11 @@ You can then use the following methods:
 
 The following properties of the `Moonriset` class provide the calculated times in different formats:
 -   `rise['timestamp']`: UNIX timestamp the moon rises or `true` is Moon continuously above horizon or `false` if Moon continuously below horizon
--   `rise['hh_mm']`: Time the moon rises as string in hh:mm format or "**:**" Moon continuously above horizon or "--:--" Moon  continuously below horizon
--   `rise['hhmm']`: Time the moon rises as string in hhmm format or "****" Moon continuously above horizon or "----" Moon  continuously below horizon
+-   `rise['hh_mm']`: Time the moon rises as string in hh:mm format or "**:**" Moon continuously above horizon or "--:--" Moon continuously below horizon
+-   `rise['hhmm']`: Time the moon rises as string in hhmm format or "****" Moon continuously above horizon or "----" Moon continuously below horizon
 -   `set['timestamp']`: UNIX timestamp the moon sets or `true` is Moon continuously above horizon or `false` if Moon continuously below horizon
--   `set['hh_mm']`: Time the moon sets as string in hh:mm format or "**:**" Moon continuously above horizon, or "--:--" Moon  continuously below horizon
--   `set['hhmm']`: Time the moon sets as string in hhmm format or "****" Moon continuously above horizon or "----" Moon  continuously below horizon
+-   `set['hh_mm']`: Time the moon sets as string in hh:mm format or "**:**" Moon continuously above horizon, or "--:--" Moon continuously below horizon
+-   `set['hhmm']`: Time the moon sets as string in hhmm format or "****" Moon continuously above horizon or "----" Moon continuously below horizon
 -   `transit['timestamp']`: UNIX timestamp the moon transit or `null` if transit does not occur
 -   `transit['hh_mm']`: Time the moon transit as string in hh:mm format
 -   `transit['hhmm']`: Time the moon transit as string in hhmm format
