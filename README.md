@@ -1,4 +1,4 @@
-![Moonriset](https://raw.githubusercontent.com/JiriJozif/moonriset/main/moonreset.png)
+![Moonriset](https://raw.githubusercontent.com/JiriJozif/moonriset/main/moonriset.png)
 
 # PHP library for calculating Moon rise, set and transit
 
