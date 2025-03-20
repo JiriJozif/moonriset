@@ -530,7 +530,7 @@ class Moonriset
     }
 
     /**
-     * Calculate Local Sidereal Time (LST) in degree
+     * Calculate Local Sidereal Time (LST) in hour
      *
      * @param float $jd Julian date
      * @return float LST
